@@ -1,0 +1,2 @@
+Modifica el text del fitxer des d’aquesta branca.
+2n canvi.
